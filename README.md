@@ -36,4 +36,4 @@ To improve overall sales, Blinkit should focus on expanding high-performing Tier
 ---
 
 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard ss.png)
+![Dashboard Screenshot](dashboard.png)
